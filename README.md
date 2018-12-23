@@ -42,9 +42,9 @@ verifies that the previous random pattern with the new set of values from user a
 the entire program is in a loop and the exit command can be invoked to terminate the program.
 
 To RUN the code:
->-**Run the "make" command in the code directory**
->-**This automatically generates an executable file by the name of "Project_1" using the predefined Makefile in the folder**
->-**Run the Project_1 executable with "./Project_1" command** 
+>-**Run the "make" command in the code directory** <br />
+>-**This automatically generates an executable file by the name of "Project_1" using the predefined Makefile in the folder** <br />
+>-**Run the Project_1 executable with "./Project_1" command** <br /> <br />
 
 While making the project we have taken into consideration most of the boundary conditions that could occur during execution, such as performing free or any other memory requiring operation without allocating memory.
 Or an invalid user input which will show an invalid flag instead of breaking out of the program.
